@@ -34,7 +34,7 @@ The user interface is shown as the following figure.
 - Click the **Execute** button to start the processing. Results will be saved in the designated result folder.
 
 ## Download
-Download the MATLAB app **Hyperspectral Analyzer V1.3** (Internal Functions) [here](bin/HyperspectralAnalyzer_V1.mlappinstall).
+Download the MATLAB app **Hyperspectral Analyzer V1.3** (Internal Functions) [here](https://github.com/hfstudio/Hyperspectral-Analyzer/blob/main/bin/HyperspectralAnalyzer_V1.mlappinstall).
 
 Download the MATLAB app **Hyperspectral Analyzer V2.0** (Batch Processing & Custom Functions) [here](bin/HyperspectralAnalyzer_V2.mlappinstall).
 
