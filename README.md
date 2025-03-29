@@ -3,17 +3,14 @@
 ## Overview
 Hyperspectral Analyzer is a tool used to analyze hyperspectral images.
 
-The user interface appears as shown in the following figure.
+The user interface is shown as the following figure.
 
-
+<img src="images/hyper_maize.png" width="500" >
 
 ## Steps to Follow
 
 ### 1. Set the Folder and File Names
-- The images will be located in the directory specified in the **Folder** field.
-- The filenames of the images are indicated in the **Filename** field, where `*` will be replaced by a number.
-- The number will fall within the range set in the **Range** field.
-- `Image 30_0_0.png` will be used to segment the plant.
+- The images will be located in the directory specified in the **Folder** field. The filenames of the images are indicated in the **Filename** field, where `*` will be replaced by a number. he number will fall within the range set in the **Range** field. For example,`Image 30_0_0.png` will be used to segment the plant.
 
 ### 2. Set the ROI (Region of Interest)
 - Click the **Set** button. A pop-up window will appear, allowing you to drag a box to define the ROI.
